@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/chanzuckerberg/chanzuckerberg.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "cellxgene.census"]
+	path = cellxgene.census
+	url = https://github.com/chanzuckerberg/cellxgene-census
+	shallow = true
+	branch = r-universe
+	subdir = api/r
+	registered = true
