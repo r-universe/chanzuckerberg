@@ -8,5 +8,5 @@
 	url = https://github.com/chanzuckerberg/cellxgene-census
 	shallow = true
 	branch = r-universe
-	subdir = api/r
+	subdir = api/r/cellxgene.census
 	registered = true
