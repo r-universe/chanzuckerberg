@@ -10,3 +10,9 @@
 	branch = r-universe
 	subdir = api/r/cellxgene.census
 	registered = true
+[submodule "tiledbsoma"]
+	path = tiledbsoma
+	url = https://github.com/single-cell-data/TileDB-SOMA
+	shallow = true
+	subdir = apis/r
+	registered = true
