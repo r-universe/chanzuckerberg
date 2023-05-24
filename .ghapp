@@ -5,5 +5,6 @@
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["cellxgene-census", "chanzuckerberg.r-universe.dev"]
 }
