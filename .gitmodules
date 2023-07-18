@@ -1,19 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/chanzuckerberg/chanzuckerberg.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "cellxgene.census"]
 	path = cellxgene.census
 	url = https://github.com/chanzuckerberg/cellxgene-census
-	shallow = true
 	branch = r-universe
 	subdir = api/r/cellxgene.census
-	registered = true
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
-	shallow = true
 	branch = 1.2.7
 	subdir = apis/r
-	registered = true
