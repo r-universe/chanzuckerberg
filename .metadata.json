@@ -1,5 +1,9 @@
 [
   {
+    "package": "cellxgene.census",
+    "releasetag": true
+  },
+  {
     "package": "tiledbsoma",
     "releasetag": true
   }
