@@ -6,5 +6,9 @@
   {
     "package": "tiledbsoma",
     "releasetag": true
+  },
+  {
+    "package": "tiledb",
+    "releasetag": true
   }
 ]
