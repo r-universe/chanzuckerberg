@@ -10,7 +10,7 @@
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
-	branch = 0.28.1
+	branch = 0.28.2
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
